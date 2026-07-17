@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Compilation and bytecode caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local runtime storage & secrets
+.env
+*.db
+*.log
+.pytest_cache/
